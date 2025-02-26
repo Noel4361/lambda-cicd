@@ -1,0 +1,3 @@
+[submodule "lambda/lambda/lambda-cicd"]
+	path = lambda/lambda/lambda-cicd
+	url = git@github.com:Noel4361/lambda-cicd.git
