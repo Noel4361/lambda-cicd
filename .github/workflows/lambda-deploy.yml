@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'lambda/'
+  workflow_dispatch:  # This allows manual triggering from the GitHub UI
 
 jobs:
   deploy-lambda: # Name of the job
